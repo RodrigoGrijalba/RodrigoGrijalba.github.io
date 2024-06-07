@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rodrigo Grijalba - Data Science | AI Systems | Economics"
+title: "Rodrigo Grijalba - Data Science \| AI Systems \| Economics"
 author_profile: true
 redirect_from: 
   - /about/
